@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 #define WINVER 0x0500
+#include <Windows.h>
 #include <vector>
 #include <iostream>
 
